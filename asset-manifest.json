@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Digital-NoteBook/static/css/main.48f19726.chunk.css",
+    "main.js": "/Digital-NoteBook/static/js/main.c7da4ce5.chunk.js",
+    "main.js.map": "/Digital-NoteBook/static/js/main.c7da4ce5.chunk.js.map",
+    "runtime-main.js": "/Digital-NoteBook/static/js/runtime-main.62a19fc8.js",
+    "runtime-main.js.map": "/Digital-NoteBook/static/js/runtime-main.62a19fc8.js.map",
+    "static/js/2.e54a1020.chunk.js": "/Digital-NoteBook/static/js/2.e54a1020.chunk.js",
+    "static/js/2.e54a1020.chunk.js.map": "/Digital-NoteBook/static/js/2.e54a1020.chunk.js.map",
+    "index.html": "/Digital-NoteBook/index.html",
+    "static/css/main.48f19726.chunk.css.map": "/Digital-NoteBook/static/css/main.48f19726.chunk.css.map",
+    "static/js/2.e54a1020.chunk.js.LICENSE.txt": "/Digital-NoteBook/static/js/2.e54a1020.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62a19fc8.js",
+    "static/js/2.e54a1020.chunk.js",
+    "static/css/main.48f19726.chunk.css",
+    "static/js/main.c7da4ce5.chunk.js"
+  ]
+}
